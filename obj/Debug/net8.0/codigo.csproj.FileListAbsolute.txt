@@ -1,0 +1,14 @@
+C:\codigo\bin\Debug\net8.0\codigo.exe
+C:\codigo\bin\Debug\net8.0\codigo.deps.json
+C:\codigo\bin\Debug\net8.0\codigo.runtimeconfig.json
+C:\codigo\bin\Debug\net8.0\codigo.dll
+C:\codigo\bin\Debug\net8.0\codigo.pdb
+C:\codigo\obj\Debug\net8.0\codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\obj\Debug\net8.0\codigo.AssemblyInfoInputs.cache
+C:\codigo\obj\Debug\net8.0\codigo.AssemblyInfo.cs
+C:\codigo\obj\Debug\net8.0\codigo.csproj.CoreCompileInputs.cache
+C:\codigo\obj\Debug\net8.0\codigo.dll
+C:\codigo\obj\Debug\net8.0\refint\codigo.dll
+C:\codigo\obj\Debug\net8.0\codigo.pdb
+C:\codigo\obj\Debug\net8.0\codigo.genruntimeconfig.cache
+C:\codigo\obj\Debug\net8.0\ref\codigo.dll
